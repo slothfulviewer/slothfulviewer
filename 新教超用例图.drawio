@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T11:24:34.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Tw0O03btASXJsConLnCT" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T11:24:59.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="5-L-w-3H39VBN_JEQKsh" version="21.3.8" type="github">
   <diagram name="Page-1" id="i5m0HkeJGkGnqH5BKmAl">
     <mxGraphModel dx="855" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="Gl2EauTEp0a5WbTZSSAS-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-1" target="Gl2EauTEp0a5WbTZSSAS-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gl2EauTEp0a5WbTZSSAS-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.086;entryY=0.857;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-1" target="Gl2EauTEp0a5WbTZSSAS-32">
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.036;entryY=0.757;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-1" target="Gl2EauTEp0a5WbTZSSAS-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gl2EauTEp0a5WbTZSSAS-1" value="一般用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -52,9 +52,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gl2EauTEp0a5WbTZSSAS-3" value="查看商品信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="-10" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Gl2EauTEp0a5WbTZSSAS-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-4" target="Gl2EauTEp0a5WbTZSSAS-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -77,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gl2EauTEp0a5WbTZSSAS-12" value="下达订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="60" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Gl2EauTEp0a5WbTZSSAS-14" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="50" width="140" height="70" as="geometry" />
@@ -106,7 +103,7 @@
           <mxGeometry x="370" y="180" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Gl2EauTEp0a5WbTZSSAS-32" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="-80" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="-60" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Gl2EauTEp0a5WbTZSSAS-34" value="管理商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="140" height="70" as="geometry" />
@@ -157,6 +154,9 @@
           <mxGeometry x="-0.3056" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-3" value="查看商品信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
