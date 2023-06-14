@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T10:10:25.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.3.8" etag="VrUKTt9P0Tb-ZoiqCWKT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T11:01:32.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="yrrdIGWtkRvxV2LJPSBt" version="21.3.8" type="github">
   <diagram name="Page-1" id="ouWmG7GfYvg4C3GdQB2f">
-    <mxGraphModel>
+    <mxGraphModel dx="936" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FujWnntb4IPOrhylfYtz-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-1" target="FujWnntb4IPOrhylfYtz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-1" target="FujWnntb4IPOrhylfYtz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-1" target="FujWnntb4IPOrhylfYtz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-1" target="FujWnntb4IPOrhylfYtz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-1" target="FujWnntb4IPOrhylfYtz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-1" value="库存管理GUI" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.03;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-2" target="FujWnntb4IPOrhylfYtz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-2" value="库存管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-4" target="FujWnntb4IPOrhylfYtz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-4" value="显示商品" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-7" target="FujWnntb4IPOrhylfYtz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-7" value="进货" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-8" target="FujWnntb4IPOrhylfYtz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-8" value="出货" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-9" target="FujWnntb4IPOrhylfYtz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-9" value="修改商品属性" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-10" target="FujWnntb4IPOrhylfYtz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-10" value="删除商品" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-15" target="FujWnntb4IPOrhylfYtz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-15" target="FujWnntb4IPOrhylfYtz-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FujWnntb4IPOrhylfYtz-15" target="FujWnntb4IPOrhylfYtz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-15" value="库存清单" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-21" value="商品价格" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-22" value="库存数量" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FujWnntb4IPOrhylfYtz-25" value="商品属性" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
