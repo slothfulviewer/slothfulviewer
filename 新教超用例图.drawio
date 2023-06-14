@@ -1,9 +1,163 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T11:06:30.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.3.8" etag="-iM0VCNZQn6yL_YFMSa_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T11:24:24.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Q_44l2FgwwkGBjUEO2wA" version="21.3.8" type="github">
   <diagram name="Page-1" id="i5m0HkeJGkGnqH5BKmAl">
-    <mxGraphModel>
+    <mxGraphModel dx="855" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-1" target="Gl2EauTEp0a5WbTZSSAS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-1" target="Gl2EauTEp0a5WbTZSSAS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-1" target="Gl2EauTEp0a5WbTZSSAS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.086;entryY=0.857;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-1" target="Gl2EauTEp0a5WbTZSSAS-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-1" value="一般用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.924;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-2" target="Gl2EauTEp0a5WbTZSSAS-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-2" target="Gl2EauTEp0a5WbTZSSAS-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-2" target="Gl2EauTEp0a5WbTZSSAS-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="475" />
+              <mxPoint x="170" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-2" target="Gl2EauTEp0a5WbTZSSAS-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-3" target="Gl2EauTEp0a5WbTZSSAS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-18" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gl2EauTEp0a5WbTZSSAS-15">
+          <mxGeometry x="-0.2256" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-3" value="查看商品信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="-10" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-4" target="Gl2EauTEp0a5WbTZSSAS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-20" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gl2EauTEp0a5WbTZSSAS-19">
+          <mxGeometry x="-0.3056" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-4" value="查看订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-12" target="Gl2EauTEp0a5WbTZSSAS-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-22" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gl2EauTEp0a5WbTZSSAS-21">
+          <mxGeometry x="-0.0742" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-12" value="下达订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-14" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="50" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-23" target="Gl2EauTEp0a5WbTZSSAS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-23" value="查看个人订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-24" target="Gl2EauTEp0a5WbTZSSAS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-24" value="查看所有用户的订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-28" target="Gl2EauTEp0a5WbTZSSAS-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-30" value="&lt;div&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gl2EauTEp0a5WbTZSSAS-29">
+          <mxGeometry x="-0.3867" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-28" value="修改订单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-32" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-10" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-34" value="管理商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-36" value="管理库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-37" value="供货商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-40" value="生成销售报告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="530" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-43" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.993;exitY=0.271;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="341" y="188" as="sourcePoint" />
+            <mxPoint x="619" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-44" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gl2EauTEp0a5WbTZSSAS-43">
+          <mxGeometry x="-0.3056" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-45" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="351" y="198" as="sourcePoint" />
+            <mxPoint x="629" y="122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-46" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gl2EauTEp0a5WbTZSSAS-45">
+          <mxGeometry x="-0.3056" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-47" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gl2EauTEp0a5WbTZSSAS-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361" y="208" as="sourcePoint" />
+            <mxPoint x="639" y="132" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl2EauTEp0a5WbTZSSAS-48" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gl2EauTEp0a5WbTZSSAS-47">
+          <mxGeometry x="-0.3056" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
