@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slothfulviewer
 - 👀 I’m interested in 游戏
-- 🌱 I’m currently learning PP,PYTHON,JAVA，
+- 🌱 I’m currently learning C,PYTHON,JAVA，JS,MOJO,R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me slothfulviewer@163.com OR QQ1299752917  OR WECHAT slothfulviewer
  你也可以加我的steam BY SEARCHING 小水手
